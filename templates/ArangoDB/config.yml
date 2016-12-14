@@ -1,5 +1,8 @@
 name: ArangoDB
 description: |
     ArangoDB Community Edition.
-version: 3.1.4
+version: 0
+maintainer: Mike Williamson
+license: "Apache 2"
+projectURL: "https://github.com/arangodb/arangodb"
 category: Databases
